@@ -25,9 +25,9 @@ Proposed three main strategies:
 
 📂 Repository Contents
 
-`bolt_first_byte_2025_analysis.ipynb` → Main Python notebook with data preprocessing, EDA, and NLP insights
+`bolt_first_byte_2025_analysis.ipynb` → Main Python notebook with data preprocessing, EDA, and visualization insights
 
-`/tableau_visualization` → Interactive dashboards and charts built in Tableau
+`/tableau_visualization` → Dashboards and charts built in Tableau
 
 `/slides` → Final presentation deck used for the judging panel
 
